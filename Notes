@@ -1,0 +1,6 @@
+1.) npm init
+2.) Install npm packages
+    npm i express dotenv mongoose colors morgan
+    npm i -D nodemon concurrently
+
+    Morgan lets you see the api request in the commandline
